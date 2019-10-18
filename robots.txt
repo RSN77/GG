@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://project285338.tilda.ws/sitemap.xml
+Host: project285338.tilda.ws
